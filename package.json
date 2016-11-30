@@ -1,0 +1,38 @@
+{
+  "name": "add-text-loader",
+  "version": "1.0.1",
+  "author": {
+    "name": "stone"
+  },
+  "description": "add text in load file",
+  "dependencies": {
+    "loader-utils": "0.2.x"
+  },
+  "keywords": [
+    "add text",
+    "添加字符串",
+    "添加",
+    "webpack"
+  ],
+  "devDependencies": {},
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/imstone/packpagejson-loader.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/imstone/packpagejson-loader/issues"
+  },
+  "readmeFilename": "README.md",
+  "gitHead": "f5cae243202659f88f8b8482a6132dc9bb646358",
+  "homepage": "https://github.com/imstone/packpagejson-loader#readme",
+  "_id": "packagejson-loader@1.0.7",
+  "_shasum": "a4f06dc0712099e428499e2a3f58a37485ed5882",
+  "_from": "packagejson-loader@>=1.0.7 <2.0.0"
+}
