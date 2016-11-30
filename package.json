@@ -18,7 +18,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/imstone/packpagejson-loader.git"
+    "url": "git+ssh://git@github.com/imstone/add-text-loader.git"
   },
   "licenses": [
     {
@@ -27,12 +27,12 @@
     }
   ],
   "bugs": {
-    "url": "https://github.com/imstone/packpagejson-loader/issues"
+    "url": "https://github.com/imstone/add-text-loader/issues"
   },
   "readmeFilename": "README.md",
   "gitHead": "f5cae243202659f88f8b8482a6132dc9bb646358",
-  "homepage": "https://github.com/imstone/packpagejson-loader#readme",
-  "_id": "packagejson-loader@1.0.7",
+  "homepage": "https://github.com/imstone/add-text-loader#readme",
+  "_id": "add-text-loader@1.0.7",
   "_shasum": "a4f06dc0712099e428499e2a3f58a37485ed5882",
   "_from": "packagejson-loader@>=1.0.7 <2.0.0"
 }
